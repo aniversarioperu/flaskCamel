@@ -7,5 +7,6 @@ Flask-OAuth
 Flask-Bcrypt
 Flask-DebugToolbar
 Flask-Admin
-WTAlchemy
+Flask-SQLAlchemy
+WTAlchemy==0.1b3
 itsdangerous
